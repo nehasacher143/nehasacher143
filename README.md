@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Neha Sacher
-- 👀 I’m interested in Front-End Web Development, Learning new things
-- 🌱 I’m currently learning Frappe, ERPNext, Python, React
+- 👀 I’m interested in Full-Stack Web Development, Learning new things
+- 🌱 I’m currently learning Java, Angular
 - 📫 How to reach me nehasacher143@gmail.com
